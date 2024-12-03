@@ -1,2 +1,2 @@
 # LCC_code
-The code will be open-source after paper been published.
+We are integrating the code content. The code will soon be open sourced.
